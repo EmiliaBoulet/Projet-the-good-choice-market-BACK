@@ -1,0 +1,10 @@
+%syntax-version=1.0.0
+%project=the-good-choice-market
+
+01-create_tables 2022-07-20T07:36:07Z anthoine saint-germain <antho@LAPTOP-7E3Q1H74> # creation de tables en BDD
+04-domain 2022-07-29T11:34:39Z anthoine saint-germain <antho@aurora> # creation des domains
+02-insert_data 2022-07-20T08:10:48Z anthoine saint-germain <antho@LAPTOP-7E3Q1H74> # insertion des data en BDD
+03-functions 2022-07-27T12:40:12Z anthoine saint-germain <antho@LAPTOP-7E3Q1H74> # creation de fonctions en BDD
+05-create-views 2022-08-02T15:36:06Z anthoine saint-germain <antho@aurora> # creation de views en BDD
+06-create_trigger 2022-08-03T09:30:28Z anthoine saint-germain <antho@aurora> # creation de trigger en BDD
+07-create_index 2022-08-03T12:17:27Z anthoine saint-germain <antho@aurora> # creation de index en BDD

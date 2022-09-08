@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GET ALL /company responds with json 1`] = `
+Object {
+  "address": "12 avenue de la banane plantain",
+  "city": "Fort de France",
+  "created_at": "2022-08-05T14:25:17.071Z",
+  "email": "compagniecreole@plantain.com",
+  "id": 1,
+  "name": StringMatching /\\[a-zA-Z\\]/,
+  "phone_number": StringMatching /\\[0-9\\]\\{8,9\\}/,
+  "siret_number": "2598423675412",
+  "updated_at": null,
+}
+`;
+
+exports[`GET ALL /company responds with json 2`] = `
+Object {
+  "address": "94 boulevard des helvetiques",
+  "city": "Bern",
+  "created_at": "2022-08-05T14:25:17.071Z",
+  "email": "contact@compagniedemeubles.ch",
+  "id": 2,
+  "name": StringMatching /\\[a-zA-Z\\]/,
+  "phone_number": StringMatching /\\[0-9\\]\\{8,9\\}/,
+  "siret_number": "2945832514789",
+  "updated_at": null,
+}
+`;
+
+exports[`GET ALL /company responds with json 3`] = `
+Object {
+  "address": "15 Rue Rivoli",
+  "city": "Paris",
+  "created_at": "2022-08-05T14:25:17.071Z",
+  "email": "contact-us@compa-ny.com",
+  "id": 3,
+  "name": StringMatching /\\[a-zA-Z\\]/,
+  "phone_number": StringMatching /\\[0-9\\]\\{8,9\\}/,
+  "siret_number": "2589636658412",
+  "updated_at": null,
+}
+`;

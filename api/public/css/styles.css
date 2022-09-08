@@ -1,0 +1,48 @@
+/* colors 
+
+orange : #ff9976
+nude : #ffebdb
+vert : #65938b
+bleu : #1c213b
+*/ 
+
+body{
+    background-color: #ffebdb;
+}
+
+header{
+    background-color: #65938b;
+    color:#ffebdb;
+    display: flex;
+    font-style: italic;
+    font-size: large;
+    margin: 3em;
+    padding : 3em;
+    justify-content: center;
+}
+
+main {
+    background-color: #ffebdb;
+    color:#65938b;
+    display: flex;
+    font-style: italic;
+    font-size: large;
+    margin: 3em;
+    padding : 3em;
+    justify-content: center;
+}
+img {
+    margin-left: 8em;
+    width: 10em;
+}
+
+footer{
+    background-color: #ff9976;
+    color:#1c213b;
+    display: flex;
+    font-style: italic;
+    font-size: large;
+    margin: 3em;
+    padding : 3em;
+    justify-content: center;
+}
